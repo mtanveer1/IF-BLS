@@ -1,6 +1,6 @@
 Please cite the following paper if you are using this code.
 
-Reference: M. Sajid, A. K. Malik, and M. Tanveer. "Intuitionistic Fuzzy Broad Learning System: Enhancing Robustness Against Noise and Outliers." arXiv preprint arXiv:2307.08713 (2023).
+Reference: M. Sajid, A. K. Malik, and M. Tanveer. "Intuitionistic Fuzzy Broad Learning System: Enhancing Robustness Against Noise and Outliers." arXiv preprint arXiv:2307.08713 (2024).
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
